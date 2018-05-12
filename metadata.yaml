@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34
     wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20656#Old-Christmas-From-the-Sketch-Book-of-Washington-Irving
 gutenberg_bookshelf:
 - Christmas
 - Children's Picture Books
